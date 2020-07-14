@@ -1,0 +1,25 @@
+GIT
+
+1. Distributed version-control system for tracking changes in computer files and coordinationg work on those files among multiple people.
+
+*Distributed = (kinda) Every user's system has it's own copy (clone) of file/ set of files.
+
+2. Version can be reversed using GIT easily. History of changes or metadata is also kept.
+
+3. Management of changes that occur in collaborative programming.
+
+4. Repo/Repository - Project stored on GIT. Can be public or private.
+
+5. Why use GIT?
+	
+	Undo mistakes by creating checkpoints and reverting versions and changes easily.
+	Distributed development and collaborative programming. Merge differently created features and parts easily.
+	Different useful features like timeline to analyse progress of the project.
+	Things don't get mixed up and branching of master project for easiness and efficiency.
+	Community support. :) (40M+ users)
+
+6. Creating a GIT repo -
+
+	I. Change directory to the folder.
+	II. Command : git init	
+	III. 
