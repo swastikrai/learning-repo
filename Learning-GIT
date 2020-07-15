@@ -20,6 +20,18 @@ GIT
 
 6. Creating a GIT repo -
 
-	I. Change directory to the folder.
-	II. Command : git init	
-	III. 
+	Change directory to the folder.
+	cmd: git init	
+	cmd: git status
+	cmd: git add <filename> (for adding to staging area)
+	*Staging area and commit
+	cmd: git commit -m "<commit_msg>" (commit changes to the project and create a checkpoint with a commit message using the argument -m)
+	cmd: git log (to check the commits attempted and get bash code for reverting, in case required)
+	*Commiting without any additional files will result in "nothing to commit"
+	cmd: git rm --cached <file_name> (unstage any files to become untracked)
+	cmd: git branch <branch-name> (Create a sub-branch on current branch)
+	cmd: git checkout <branch-name> (Switching to a branch)
+	cmd: git commit -am (Adding and commiting altogether)
+	
+	
+
