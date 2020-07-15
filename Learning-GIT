@@ -32,6 +32,8 @@ GIT
 	cmd: git branch <branch-name> (Create a sub-branch on current branch)
 	cmd: git checkout <branch-name> (Switching to a branch)
 	cmd: git commit -am (Adding and commiting altogether)
-	
+	cmd: git remote add ... (Adding a remote from GitHub and hosting the files online)
+	cmd: git remote -v (View remote for current branch)
+	cmd: git push -u origin master
 	
 
